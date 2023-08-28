@@ -1,0 +1,35 @@
+.yellow {
+  width: 130px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  border: none;
+  background-color: rgb(227, 197, 59);
+  border-radius: 15px;
+  transition: 0.15s;
+}
+
+.brown {
+  width: 130px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  border: none;
+  background-color: rgb(218, 136, 28);
+  border-radius: 15px;
+  transition: 0.15s;
+}
+
+.yellow:hover {
+  opacity: 0.8;
+}
+
+.brown:hover {
+  opacity: 0.8;
+}
+
+.brown:active {
+  opacity: 0.5;
+}
+
+.yellow:active {
+  opacity: 0.5;
+}
