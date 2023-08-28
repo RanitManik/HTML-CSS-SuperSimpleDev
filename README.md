@@ -1,65 +1,59 @@
 # HTML Tutorial
+
 - HTML Introduction✅
-    - What is HTML?✅
-    - A Simple HTML Document✅
-    - What is an HTML Element?✅
-    - Web Browsers✅
-    - HTML Page Structure✅
-    - HTML History✅
+  - What is HTML?✅
+  - A Simple HTML Document✅
+  - What is an HTML Element?✅
+  - Web Browsers✅
+  - HTML Page Structure✅
+  - HTML History✅
 - HTML Editors✅
-    -Learn HTML Using Notepad or TextEdit✅
+  -Learn HTML Using Notepad or TextEdit✅
 - HTML Basic
-    - HTML Documents✅
-    - The <!DOCTYPE> Declaration✅
-    - HTML Headings✅
-    - HTML Paragraphs✅
-    - HTML Links✅
-    - HTML Images✅
-    - How to View HTML Source✅
-          - View HTML Source Code:✅
-          - Inspect an HTML Element:✅
+  - HTML Documents✅
+  - The <!DOCTYPE> Declaration✅
+  - HTML Headings✅
+  - HTML Paragraphs✅
+  - HTML Links✅
+  - HTML Images✅
+  - How to View HTML Source✅ - View HTML Source Code:✅ - Inspect an HTML Element:✅
 - HTML Elements✅
-    - HTML Elements✅
-    - Nested HTML Elements✅
-    - Never Skip the End Tag✅
-    - Empty HTML Elements✅
-    - HTML is Not Case Sensitive✅
-    - HTML Tag Reference✅
+  - HTML Elements✅
+  - Nested HTML Elements✅
+  - Never Skip the End Tag✅
+  - Empty HTML Elements✅
+  - HTML is Not Case Sensitive✅
+  - HTML Tag Reference✅
 - HTML Attributes✅
-    - HTML Attributes✅
-    - The href Attribute✅
-    - The src Attribute✅
-    - The width and height Attributes✅
-    - The alt Attribute✅
-    - The style Attribute✅
-    - The lang Attribute✅
-    - The title Attribute✅
-    - We Suggest: Always Use Lowercase Attributes✅
-    - We Suggest: Always Quote Attribute Values✅
-    - Single or Double Quotes?✅
+  - HTML Attributes✅
+  - The href Attribute✅
+  - The src Attribute✅
+  - The width and height Attributes✅
+  - The alt Attribute✅
+  - The style Attribute✅
+  - The lang Attribute✅
+  - The title Attribute✅
+  - We Suggest: Always Use Lowercase Attributes✅
+  - We Suggest: Always Quote Attribute Values✅
+  - Single or Double Quotes?✅
 - HTML Headings✅
-    - HTML Headings✅
-    - Headings Are Important✅
-    - Bigger Headings✅
+  - HTML Headings✅
+  - Headings Are Important✅
+  - Bigger Headings✅
 - HTML Paragraphs✅
-    - HTML Paragraphs✅
-    - HTML Display✅
-    - HTML Horizontal Rules✅
-    - HTML Line Breaks✅
-    - The Poem Problem✅
-<<<<<<< HEAD
-    - Solution - The HTML <pre> Element✅
+  - HTML Paragraphs✅
+  - HTML Display✅
+  - HTML Horizontal Rules✅
+  - HTML Line Breaks✅
+  - The Poem Problem✅
+  - Solution - The HTML <pre> Element✅
 - HTML Styles✅
-=======
-    - Solution - The HTML "pre" Element✅
-- HTML Styles
->>>>>>> 15fb423cacaeaa9ed7ff5a42ab977b2d7425ea41
-    - The HTML Style Attribute✅
-    - Background Color✅
-    - Text Colo✅
-    - Fonts✅
-    - Text Size✅
-    - Text Alignment✅
+  - The HTML Style Attribute✅
+  - Background Color✅
+  - Text Colo✅
+  - Fonts✅
+  - Text Size✅
+  - Text Alignment✅
 - HTML Formatting
 - HTML Quotations
 - HTML Comments
@@ -91,6 +85,7 @@
 - HTML vs. XHTML
 
 # HTML Forms
+
 - HTML Forms
 - HTML Form Attributes
 - HTML Form Elements
@@ -99,10 +94,12 @@
 - HTML Input Form Attributes
 
 # HTML Graphics
+
 - HTML Canvas
 - HTML SVG
 
 # HTML Media
+
 - HTML Media
 - HTML Video
 - HTML Audio
@@ -110,6 +107,7 @@
 - HTML YouTube
 
 # HTML APIs
+
 - HTML Geolocation
 - HTML Drag/Drop
 - HTML Web Storage
@@ -117,6 +115,7 @@
 - HTML SSE
 
 # HTML Examples
+
 - HTML Examples
 - HTML Editor
 - HTML Quiz
@@ -127,6 +126,7 @@
 - HTML Accessibility
 
 # HTML References
+
 - HTML Tag List
 - HTML Attributes
 - HTML Global Attributes
