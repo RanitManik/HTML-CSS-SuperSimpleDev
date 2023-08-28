@@ -1,18 +1,60 @@
 # HTML Tutorial
-- HTML Introduction
-    - What is HTML?
-    - A Simple HTML Document
-    - What is an HTML Element?
-    - Web Browsers
-    - HTML Page Structure
-    - HTML History
-- HTML Editors
+- HTML Introduction✅
+    - What is HTML?✅
+    - A Simple HTML Document✅
+    - What is an HTML Element?✅
+    - Web Browsers✅
+    - HTML Page Structure✅
+    - HTML History✅
+- HTML Editors✅
+    -Learn HTML Using Notepad or TextEdit✅
 - HTML Basic
-- HTML Elements
-- HTML Attributes
-- HTML Headings
-- HTML Paragraphs
+    - HTML Documents✅
+    - The <!DOCTYPE> Declaration✅
+    - HTML Headings✅
+    - HTML Paragraphs✅
+    - HTML Links✅
+    - HTML Images✅
+    - How to View HTML Source✅
+          - View HTML Source Code:✅
+          - Inspect an HTML Element:✅
+- HTML Elements✅
+    - HTML Elements✅
+    - Nested HTML Elements✅
+    - Never Skip the End Tag✅
+    - Empty HTML Elements✅
+    - HTML is Not Case Sensitive✅
+    - HTML Tag Reference✅
+- HTML Attributes✅
+    - HTML Attributes✅
+    - The href Attribute✅
+    - The src Attribute✅
+    - The width and height Attributes✅
+    - The alt Attribute✅
+    - The style Attribute✅
+    - The lang Attribute✅
+    - The title Attribute✅
+    - We Suggest: Always Use Lowercase Attributes✅
+    - We Suggest: Always Quote Attribute Values✅
+    - Single or Double Quotes?✅
+- HTML Headings✅
+    - HTML Headings✅
+    - Headings Are Important✅
+    - Bigger Headings✅
+- HTML Paragraphs✅
+    - HTML Paragraphs✅
+    - HTML Display✅
+    - HTML Horizontal Rules✅
+    - HTML Line Breaks✅
+    - The Poem Problem✅
+    - Solution - The HTML <pre> Element✅
 - HTML Styles
+    - The HTML Style Attribute✅
+    - Background Color✅
+    - Text Color
+    - Fonts
+    - Text Size
+    - Text Alignment✅
 - HTML Formatting
 - HTML Quotations
 - HTML Comments
