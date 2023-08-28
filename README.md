@@ -15,9 +15,4 @@ Welcome to the **HTML-CSS** repository! This is where I store my practice files 
 
 If you find any errors, have suggestions, or want to add your own practice files, feel free to create a pull request. Contributions are welcome!
 
-## License
-
-This repository is licensed under the [MIT License](/LICENSE).
-
-Happy coding!
 
