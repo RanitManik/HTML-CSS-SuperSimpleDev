@@ -1,0 +1,24 @@
+.thumbnail {
+  width: 300px;
+}
+
+.search-bar {
+  width: 350px;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 25px;
+  padding-left: 15px;
+  border-radius: 25px;
+  border-color: rgb(186, 186, 186);
+  border-style: solid;
+}
+
+.video-title {
+  width: 300px;
+}
+
+.video-author,
+.video-stats {
+  display: inline-block;
+}
