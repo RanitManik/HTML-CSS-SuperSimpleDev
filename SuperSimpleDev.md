@@ -1,33 +1,33 @@
 # Lessons
 
-## Intro
+## Intro✅
 [00:00](#intro)
 
-## HTML Basics
+## HTML Basics✅
 [01:02](#html-basics)
 
-## CSS Basics
+## CSS Basics✅
 [17:42](#css-basics)
 
-## Hovers, Transitions, Shadows
+## Hovers, Transitions, Shadows✅
 [44:39](#hovers-transitions-shadows)
 
-## Chrome DevTools & CSS Box Model
+## Chrome DevTools & CSS Box Model✅
 [1:03:10](#chrome-devtools-css-box-model)
 
-## Text Styles
+## Text Styles✅
 [1:17:30](#text-styles)
 
-## The HTML Structure
+## The HTML Structure✅
 [1:52:18](#the-html-structure)
 
-## Images and Text Boxes
+## Images and Text Boxes✅
 [2:11:08](#images-and-text-boxes)
 
-## CSS Display Property
+## CSS Display Property✅
 [2:25:42](#css-display-property)
 
-## The div Element
+## The div Element✅
 [2:34:58](#the-div-element)
 
 ## Nested Layouts Technique
