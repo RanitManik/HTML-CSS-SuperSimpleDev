@@ -47,7 +47,7 @@
     - HTML Horizontal Rules✅
     - HTML Line Breaks✅
     - The Poem Problem✅
-    - Solution - The HTML <pre> Element✅
+    - Solution - The HTML "pre" Element✅
 - HTML Styles
     - The HTML Style Attribute✅
     - Background Color✅
