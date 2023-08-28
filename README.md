@@ -8,7 +8,7 @@
   - HTML Page Structure✅
   - HTML History✅
 - HTML Editors✅
-  -Learn HTML Using Notepad or TextEdit✅
+  - Learn HTML Using Notepad or TextEdit✅
 - HTML Basic
   - HTML Documents✅
   - The <!DOCTYPE> Declaration✅
