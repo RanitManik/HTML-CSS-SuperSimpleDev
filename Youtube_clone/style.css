@@ -1,5 +1,7 @@
 .thumbnail {
   width: 300px;
+  display: block;
+  border-radius: 8px;
 }
 
 .search-bar {
@@ -7,18 +9,20 @@
   font-size: 20px;
   padding-top: 5px;
   padding-bottom: 5px;
-  margin-left: 25px;
   padding-left: 15px;
   border-radius: 25px;
   border-color: rgb(186, 186, 186);
   border-style: solid;
+  display: block;
 }
 
 .video-title {
   width: 300px;
 }
 
-.video-author,
-.video-stats {
+.video-preview{
+  width: 300px;
   display: inline-block;
+  vertical-align: top;
+  margin-right: 15px; 
 }
