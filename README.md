@@ -1,11 +1,11 @@
 # HTML Tutorial
 - HTML Introduction
- - What is HTML?
- - A Simple HTML Document
- - What is an HTML Element?
- - Web Browsers
- - HTML Page Structure
- - HTML History
+    - What is HTML?
+    - A Simple HTML Document
+    - What is an HTML Element?
+    - Web Browsers
+    - HTML Page Structure
+    - HTML History
 - HTML Editors
 - HTML Basic
 - HTML Elements
