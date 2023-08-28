@@ -48,12 +48,12 @@
     - HTML Line Breaks✅
     - The Poem Problem✅
     - Solution - The HTML <pre> Element✅
-- HTML Styles
+- HTML Styles✅
     - The HTML Style Attribute✅
     - Background Color✅
-    - Text Color
-    - Fonts
-    - Text Size
+    - Text Colo✅
+    - Fonts✅
+    - Text Size✅
     - Text Alignment✅
 - HTML Formatting
 - HTML Quotations
