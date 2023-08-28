@@ -1,6 +1,6 @@
 # HTML-CSS-SuperSimpleDev
 
-Welcome to the **HTML-CSS-SuperSimpleDev** repository! This is where I store my practice files for learning HTML and CSS.
+Welcome to the **HTML-CSS** repository! This is where I store my practice files for learning HTML and CSS.
 
 
 ## How to Use
