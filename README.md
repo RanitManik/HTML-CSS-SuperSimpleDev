@@ -9,7 +9,7 @@
   - HTML History✅
 - HTML Editors✅
   - Learn HTML Using Notepad or TextEdit✅
-- HTML Basic
+- HTML Basic✅
   - HTML Documents✅
   - The <!DOCTYPE> Declaration✅
   - HTML Headings✅
