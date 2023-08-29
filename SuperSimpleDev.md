@@ -30,7 +30,7 @@
 ## The div Element ✅
 [2:34:58](#the-div-element)
 
-## Nested Layouts Technique
+## Nested Layouts Technique ✅
 [2:46:55](#nested-layouts-technique)
 
 ## CSS Grid
