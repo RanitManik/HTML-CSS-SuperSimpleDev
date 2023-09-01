@@ -56,7 +56,17 @@
   - Fonts✅
   - Text Size✅
   - Text Alignment✅
-- HTML Formatting
+- HTML Formatting✅
+  - HTML Text Formatting✅
+  - HTML Formatting Elements✅
+  - HTML <b> and <strong> Elements✅
+  - HTML <i> and <em> Elements✅
+  - HTML <small> Element✅
+  - HTML <mark> Element✅
+  - HTML <del> Element✅
+  - HTML <ins> Element✅
+  - HTML <sub> Element✅
+  - HTML <sup> Element✅
 - HTML Quotations
 - HTML Comments
 - HTML Colors
