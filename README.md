@@ -67,11 +67,11 @@
   - HTML ins Element✅
   - HTML sub Element✅
   - HTML sup Element✅
-- HTML Quotations
-- HTML Comments
-- HTML Colors
-- HTML CSS
-- HTML Links
+- HTML Quotations✅
+- HTML Comments✅
+- HTML Colors✅
+- HTML CSS✅
+- HTML Links✅
 - HTML Images
 - HTML Favicon
 - HTML Page Title
