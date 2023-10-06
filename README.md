@@ -1,4 +1,8 @@
-# HTML Tutorial
+<div align="center">
+<h1>
+  HTML Tutorial
+</h1>
+</div>
 
 - HTML Introduction✅
   - What is HTML?✅
