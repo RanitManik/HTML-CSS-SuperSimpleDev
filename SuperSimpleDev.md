@@ -33,7 +33,7 @@
 ## Nested Layouts Technique ✅
 [2:46:55](#nested-layouts-technique)
 
-## CSS Grid
+## CSS Grid ✅
 [3:16:58](#css-grid)
 
 ## Flexbox
