@@ -1,8 +1,6 @@
 .thumbnail {
-  width: 300px;
-  display: block;
-  border-radius: 8px;
-  margin-bottom: 16px;
+  width: 100%;
+  border-radius: 10px;
 }
 
 .search-bar {
@@ -17,16 +15,10 @@
   display: block;
 }
 
-.video-preview {
-  width: 300px;
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 15px;
-}
-
 .video-info-grid {
   display: grid;
   grid-template-columns: 50px 1fr;
+  margin-top: 15px;
 }
 
 .profile-picture {
@@ -55,4 +47,11 @@ p {
 
 .video-author {
   margin-bottom: 4px;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
 }
