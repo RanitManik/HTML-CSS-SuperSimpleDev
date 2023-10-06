@@ -48,7 +48,8 @@
   - HTML Horizontal Rules✅
   - HTML Line Breaks✅
   - The Poem Problem✅
-  - Solution - The HTML "pre" Element✅
+  - Solution
+  - The HTML "pre" Element✅
 - HTML Styles✅
   - The HTML Style Attribute✅
   - Background Color✅
@@ -69,12 +70,12 @@
   - HTML sup Element✅
 - HTML Quotations✅
   - HTML Quotation and Citation Elements✅
-  - HTML <blockquote> for Quotations✅
-  - HTML <q> for Short Quotations✅
-  - HTML <abbr> for Abbreviations✅
-  - HTML <address> for Contact Information✅
-  - HTML <cite> for Work Title✅
-  - HTML <bdo> for Bi-Directional Override✅
+  - HTML blockquote for Quotations✅
+  - HTML q for Short Quotations✅
+  - HTML abbr for Abbreviations✅
+  - HTML address for Contact Information✅
+  - HTML cite for Work Title✅
+  - HTML bdo for Bi-Directional Override✅
 - HTML Comments✅
   - HTML Comment Tag✅
   - Add Comments✅
