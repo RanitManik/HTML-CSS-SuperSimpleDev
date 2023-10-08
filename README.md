@@ -1,4 +1,8 @@
-# HTML Tutorial
+<div align="center">
+<h1>
+  HTML Tutorial
+</h1>
+</div>
 
 - HTML Introduction✅
   - What is HTML?✅
@@ -48,7 +52,8 @@
   - HTML Horizontal Rules✅
   - HTML Line Breaks✅
   - The Poem Problem✅
-  - Solution - The HTML "pre" Element✅
+  - Solution
+  - The HTML "pre" Element✅
 - HTML Styles✅
   - The HTML Style Attribute✅
   - Background Color✅
@@ -68,10 +73,50 @@
   - HTML sub Element✅
   - HTML sup Element✅
 - HTML Quotations✅
+  - HTML Quotation and Citation Elements✅
+  - HTML blockquote for Quotations✅
+  - HTML q for Short Quotations✅
+  - HTML abbr for Abbreviations✅
+  - HTML address for Contact Information✅
+  - HTML cite for Work Title✅
+  - HTML bdo for Bi-Directional Override✅
 - HTML Comments✅
+  - HTML Comment Tag✅
+  - Add Comments✅
+  - Hide Content✅
+  - Hide Inline Content✅
 - HTML Colors✅
+  - Color Names✅
+  - Background Color✅
+  - Text Color✅
+  - Border Color✅
+  - Color Values✅
 - HTML CSS✅
+  - What is CSS?✅
+  - Using CSS✅
+  - Inline CSS✅
+  - Internal CSS✅
+  - External CSS✅
+  - CSS Colors, Fonts and Sizes✅
+  - CSS Border✅
+  - CSS Padding✅
+  - CSS Margin✅
+  - Link to External CSS✅
 - HTML Links✅
+  - HTML Links - Hyperlinks✅
+  - HTML Links - Syntax✅
+  - HTML Links - The target Attribute✅
+  - Absolute URLs vs. Relative URLs✅
+  - HTML Links - Use an Image as a Link✅
+  - Link to an Email Address✅
+  - Button as a Link✅
+  - Link Titles✅
+  - More on Absolute URLs and Relative URLs✅
+  - HTML Link Colors✅
+  - Link Buttons✅
+  - HTML Link Tags✅
+  - Create a Bookmark in HTML✅
+  - Create a Bookmark in HTML✅
 - HTML Images
 - HTML Favicon
 - HTML Page Title
