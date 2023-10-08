@@ -1,22 +1,6 @@
-body {
-  padding-bottom: 200px;
-}
-
 .thumbnail {
   width: 100%;
   border-radius: 10px;
-}
-
-.search-bar {
-  width: 350px;
-  font-size: 20px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 15px;
-  border-radius: 25px;
-  border-color: rgb(186, 186, 186);
-  border-style: solid;
-  display: block;
 }
 
 .video-info-grid {
@@ -28,13 +12,6 @@ body {
 .profile-picture {
   width: 40px;
   border-radius: 50px;
-}
-
-p {
-  font-family: Roboto, Arial;
-  font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 .video-title {
