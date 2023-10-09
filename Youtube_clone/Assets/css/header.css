@@ -1,7 +1,13 @@
 .header {
-  height: 55px;
+  height: 60px;
   display: flex;
   justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  border-bottom: solid 1px rgb(193, 193, 193);
 }
 
 /* left-section */
