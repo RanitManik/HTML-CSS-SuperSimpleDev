@@ -45,15 +45,15 @@
 ## CSS Position ✅
 [4:44:36](#css-position)
 
-## Position Absolute and Relative
+## Position Absolute and Relative ✅
 [5:07:14](#position-absolute-and-relative)
 
-## Finish the Project
+## Finish the Project ✅
 [5:33:49](#finish-the-project)
 
-## More CSS Features
+## More CSS Features ✅
 [6:07:46](#more-css-features)
 
-## Outro
+## Outro ✅
 [6:30:21](#outro)
 
