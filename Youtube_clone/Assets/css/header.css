@@ -32,6 +32,7 @@
   align-items: center;
 }
 .search-bar {
+  width: 0;
   flex: 1;
   height: 36px;
   padding-left: 12px;
@@ -78,6 +79,27 @@
 /* right-section */
 
 .right-section {
-  background-color: aquamarine;
-  width: 200px;
+  width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 24px;
+  flex-shrink: 0;
+}
+
+.upload-icon {
+  height: 24px;
+}
+
+.youtube-apps-icon {
+  height: 24px;
+}
+
+.notifications-icon {
+  height: 24px;
+}
+
+.channel-me-icon {
+  height: 32px;
+  border-radius: 16px;
 }
