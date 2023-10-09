@@ -1,3 +1,5 @@
+/* header */
+
 .header {
   height: 60px;
   display: flex;
@@ -21,10 +23,12 @@
   height: 24px;
   margin-left: 24px;
   margin-right: 24px;
+  cursor: pointer;
 }
 
 .youtube-logo {
   height: 20px;
+  cursor: pointer;
 }
 
 /* middle-section */
@@ -63,6 +67,7 @@
   margin-left: -1px;
   border-radius: 2px;
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .search-icon {
@@ -75,6 +80,7 @@
   width: 40px;
   border-radius: 20px;
   border: none;
+  cursor: pointer;
 }
 
 .voice-search-icon {
@@ -95,17 +101,21 @@
 
 .upload-icon {
   height: 24px;
+  cursor: pointer;
 }
 
 .youtube-apps-icon {
   height: 24px;
+  cursor: pointer;
 }
 
 .notifications-icon {
   height: 24px;
+  cursor: pointer;
 }
 
 .channel-me-icon {
   height: 32px;
   border-radius: 16px;
+  cursor: pointer;
 }
