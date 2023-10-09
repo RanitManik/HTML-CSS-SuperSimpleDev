@@ -36,13 +36,13 @@
 ## CSS Grid ✅
 [3:16:58](#css-grid)
 
-## Flexbox
+## Flexbox ✅
 [3:43:58](#flexbox)
 
-## Nested Flexbox
+## Nested Flexbox ✅
 [4:15:21](#nested-flexbox)
 
-## CSS Position
+## CSS Position ✅
 [4:44:36](#css-position)
 
 ## Position Absolute and Relative
