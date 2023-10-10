@@ -10,6 +10,7 @@
     right: 0;
     background-color: white;
     border-bottom: solid 1px rgb(193, 193, 193);
+    z-index: 99;
 }
 
 /* left-section */
@@ -82,6 +83,11 @@
     border-radius: 20px;
     border: none;
     cursor: pointer;
+    background-color: rgb(244, 244, 244);
+}
+
+.voice-search-button:hover {
+    background-color: rgb(230, 230, 230);
 }
 
 .voice-search-icon {
@@ -108,6 +114,23 @@
 .youtube-apps-icon {
     height: 24px;
     cursor: pointer;
+}
+
+.notifications-icon-container {
+    height: 24px;
+    position: relative;
+}
+
+.notifications-count {
+    font-family: Roboto, Arial, serif;
+    background-color: #d10000;
+    padding: 2px 5px 2px 5px;
+    font-size: 11px;
+    border-radius: 10px;
+    color: white;
+    position: absolute;
+    top: -2px;
+    right: -5px;
 }
 
 .notifications-icon {
