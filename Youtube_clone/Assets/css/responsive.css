@@ -1,0 +1,43 @@
+/* mobiles */
+@media (max-width: 700px) {
+    .video-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* tablets and ipads */
+@media (max-width: 1000px) and (min-width: 701px) {
+    .video-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* tablets and ipads */
+@media (max-width: 1500px) and (min-width: 1001px) {
+    .video-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+/* laptops */
+@media (min-width: 1501px) {
+    .video-grid {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+/* extra CSS for mobile */
+@media (max-width: 400px) {
+
+    .middle-section {
+        display: none;
+    }
+
+    .upload-icon {
+        opacity: 0;
+    }
+
+    .youtube-apps-icon {
+        opacity: 0;
+    }
+}
