@@ -40,4 +40,13 @@
     .youtube-apps-icon {
         opacity: 0;
     }
+
+    body {
+        padding: 100px 25px 25px 25px;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
 }

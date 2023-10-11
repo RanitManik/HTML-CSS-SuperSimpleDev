@@ -4,6 +4,11 @@
     padding: 30px 0;
 }
 
+.image-about-me img {
+    width: 150px;
+    border-radius: 75px;
+}
+
 .footer h4 {
     margin-bottom: 25px;
     margin-top: 20px;
@@ -16,7 +21,7 @@
     cursor: pointer;
     padding: 18px 0;
     text-decoration: none;
-    transition: transform 0.3s ease;
+    transition: transform 0.15s ease;
 }
 
 .fa-heart-o {
@@ -24,7 +29,7 @@
 }
 
 .icons .fa:hover {
-    color: #570802;
+    color: #000000;
     transform: scale(1.5);
 }
 
@@ -45,3 +50,5 @@
         margin-left: 25px;
     }
 }
+
+
