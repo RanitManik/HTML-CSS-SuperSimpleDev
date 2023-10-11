@@ -1,4 +1,6 @@
-# Lessons
+<div align = "center">
+<h1>Lessons</h1>
+</div>
 
 ## Intro ✅
 [00:00](#intro)
