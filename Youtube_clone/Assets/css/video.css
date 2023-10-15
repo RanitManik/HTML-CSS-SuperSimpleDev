@@ -32,6 +32,7 @@
 
 .video-author {
     margin-bottom: 4px;
+    cursor: pointer;
 }
 
 .video-grid {

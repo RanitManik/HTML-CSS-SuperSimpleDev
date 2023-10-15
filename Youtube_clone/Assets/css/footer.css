@@ -16,7 +16,7 @@
 }
 
 .icons .fa {
-    color: #f44336;
+    color: #FF0000;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
@@ -25,7 +25,7 @@
 }
 
 .fa-heart-o {
-    color: #f44336;
+    color: #FF0000;
 }
 
 .icons .fa:hover {

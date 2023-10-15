@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="Assets/css/header.css"/>
     <link rel="stylesheet" href="Assets/css/video.css"/>
     <link rel="stylesheet" href="Assets/css/sidebar.css">
-    <link rel="stylesheet" href="Assets/css/Tooltip.css">
+    <link rel="stylesheet" href="Assets/css/tooltip.css">
     <link rel="stylesheet" href="Assets/css/responsive.css">
     <link rel="stylesheet" href="Assets/css/footer.css">
 
@@ -44,14 +44,14 @@
     </div>
     <div class="middle-section">
         <input class="search-bar" type="text" placeholder="Search"/>
-        <button class="search-button" title="Search">
+        <button class="search-button" data-title="Search">
             <img
                     src="Assets/icons/search.svg"
                     alt=""
                     class="search-icon"
             />
         </button>
-        <button class="voice-search-button" title="Search with your voice">
+        <button class="voice-search-button" data-title="Search with your voice">
             <img
                     src="Assets/icons/voice-search-icon.svg"
                     alt=""
@@ -60,27 +60,31 @@
         </button>
     </div>
     <div class="right-section">
-        <img
-                title="Create"
-                src="Assets/icons/upload.svg"
-                class="upload-icon"
-                alt=""
-        />
-        <img
-                src="Assets/icons/youtube-apps.svg"
-                class="youtube-apps-icon"
-                title="YouTube apps"
-                alt=""
-        />
-        <div class="notifications-icon-container">
+        <button class="right-section-buttons" data-title="Create">
             <img
-                    src="Assets/icons/notifications.svg"
-                    class="notifications-icon"
-                    title="Notifications"
+                    src="Assets/icons/upload.svg"
+                    class="upload-icon"
                     alt=""
             />
-            <div class="notifications-count">3</div>
-        </div>
+        </button>
+        <button class="right-section-buttons" data-title="YouTube apps">
+            <img
+                    src="Assets/icons/youtube-apps.svg"
+                    class="youtube-apps-icon"
+                    alt=""
+            />
+        </button>
+        <button class="right-section-buttons" data-title="Notifications">
+            <div class="notifications-icon-container">
+                <img
+                        src="Assets/icons/notifications.svg"
+                        class="notifications-icon"
+                        data-title="Notifications"
+                        alt=""
+                />
+                <div class="notifications-count">3</div>
+            </div>
+        </button>
         <img
                 src="Assets/logo/channel_me.jpg"
                 class="channel-me-icon"
@@ -142,7 +146,7 @@
                 </div>
                 <div class="video-info">
                     <p class="video-title">Python Full Course for free 🐍</p>
-                    <p class="video-author" title="Bro Code">Bro Code</p>
+                    <p class="video-author" chanel-title="Bro Code">Bro Code</p>
                     <p class="video-stats">13M views &#183; 1 year ago</p>
                 </div>
             </div>
@@ -170,7 +174,7 @@
                     <p class="video-title">
                         Inline & Block Elements in HTML | Sigma Web Development Course
                     </p>
-                    <p class="video-author" title="CodeWithHarry">CodeWithHarry</p>
+                    <p class="video-author" chanel-title="CodeWithHarry">CodeWithHarry</p>
                     <p class="video-stats">45K views &#183; 2 days ago</p>
                 </div>
             </div>
@@ -198,7 +202,7 @@
                     <p class="video-title">
                         How to EARN ₹50,000 Per Month from HOME | Tanay Pratap Hindi
                     </p>
-                    <p class="video-author" title="Tanay Pratap">Tanay Pratap</p>
+                    <p class="video-author" chanel-title="Tanay Pratap">Tanay Pratap</p>
                     <p class="video-stats">143K views &#183; 2 months ago</p>
                 </div>
             </div>
@@ -226,7 +230,7 @@
                     <p class="video-title">
                         Mystery of World's Oldest Human | The Secret of Living 120+ years
                     </p>
-                    <p class="video-author" title="Dhruv Rathee">Dhruv Rathee</p>
+                    <p class="video-author" chanel-title="Dhruv Rathee">Dhruv Rathee</p>
                     <p class="video-stats">3.7M views &#183; 5 days ago</p>
                 </div>
             </div>
@@ -254,7 +258,7 @@
                     <p class="video-title">
                         1 Year Journey of our Special Project ! *layers.shop*
                     </p>
-                    <p class="video-author" title="Tech Burner">Tech Burner</p>
+                    <p class="video-author" chanel-title="Tech Burner">Tech Burner</p>
                     <p class="video-stats">670K views &#183; 5 days ago</p>
                 </div>
             </div>
@@ -283,7 +287,7 @@
                     <p class="video-title">
                         Going to Every Bollywood Star's House in Mumbai
                     </p>
-                    <p class="video-author" title="Slayy Point">Slayy Point</p>
+                    <p class="video-author" chanel-title="Slayy Point">Slayy Point</p>
                     <p class="video-stats">4.2M views &#183; 3 days ago</p>
                 </div>
             </div>
@@ -311,7 +315,7 @@
                     <p class="video-title">
                         HTML, CSS Full Course-Beginner to Pro-learn in one video
                     </p>
-                    <p class="video-author" title="SuperSimpleDev">SuperSimpleDev</p>
+                    <p class="video-author" chanel-title="SuperSimpleDev">SuperSimpleDev</p>
                     <p class="video-stats">6.1M views &#183; 1 year ago</p>
                 </div>
             </div>
@@ -339,7 +343,7 @@
                     <p class="video-title">
                         How to Find Remote Jobs?
                     </p>
-                    <p class="video-author" title="Kunal Kushwaha">Kunal Kushwaha</p>
+                    <p class="video-author" chanel-title="Kunal Kushwaha">Kunal Kushwaha</p>
                     <p class="video-stats">45K views &#183; 2 weeks ago</p>
                 </div>
             </div>
@@ -367,7 +371,7 @@
                     <p class="video-title">
                         Purgatory King👑 Best Br Gameplay 17Kills With New Anime Bundle
                     </p>
-                    <p class="video-author" title="Gyan Gamming">Gyan Gamming</p>
+                    <p class="video-author" chanel-title="Gyan Gamming">Gyan Gamming</p>
                     <p class="video-stats">6.1M views &#183; 3 year ago</p>
                 </div>
             </div>
@@ -395,7 +399,7 @@
                     <p class="video-title">
                         Top Gun: Maverick (2022) - Maverick's Test Run Scene | Movieclips
                     </p>
-                    <p class="video-author" title="Movieclips">Movieclips</p>
+                    <p class="video-author" chanel-title="Movieclips">Movieclips</p>
                     <p class="video-stats">8.5M views &#183; 1 year ago</p>
                 </div>
             </div>
@@ -423,7 +427,7 @@
                     <p class="video-title">
                         JavaScript Programming - Full Course
                     </p>
-                    <p class="video-author" title="freeCodeCamp.org">freeCodeCamp.org</p>
+                    <p class="video-author" chanel-title="freeCodeCamp.org">freeCodeCamp.org</p>
                     <p class="video-stats">3.1M views &#183; 2 year ago</p>
                 </div>
             </div>
@@ -451,7 +455,7 @@
                     <p class="video-title">
                         Live Mock Interview with @Striver | MAANG Format | GeeksforGeeks
                     </p>
-                    <p class="video-author" title="GeeksforGeeks">GeeksforGeeks</p>
+                    <p class="video-author" chanel-title="GeeksforGeeks">GeeksforGeeks</p>
                     <p class="video-stats">77K views &#183; Streamed 1 year ago</p>
                 </div>
             </div>
