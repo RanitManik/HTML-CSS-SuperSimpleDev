@@ -1,5 +1,5 @@
 <div align = "center">
-<h1>HTML-CSS course</h1>
+<h1>HTML-CSS Full course</h1>
 </div>
 
 <img src="https://github.com/RanitManik/HTML-CSS-SuperSimpleDev/assets/138437760/c2998f2d-4f73-4530-bfc4-388da5d6d945" alt="Exercise GIF" style="width: 100%;">
