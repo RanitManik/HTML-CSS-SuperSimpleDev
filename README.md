@@ -2,6 +2,10 @@
   <h1>HTML-CSS Full Course</h1>
 </div>
 
+<img src="https://github.com/RanitManik/HTML-CSS-SuperSimpleDev/assets/138437760/c2998f2d-4f73-4530-bfc4-388da5d6d945" alt="Exercise GIF" style="width: 100%;">
+
+---
+
 This repository serves as a centralized hub for storing all assignments and projects related to the HTML-CSS Full Course. It is meticulously organized to facilitate easy access and navigation for learners enrolled in the course. The structured layout ensures a seamless experience for locating, submitting, and reviewing assignments, as well as tracking progress on various projects. Feel free to explore the wealth of resources available here to enhance your proficiency in web development through hands-on exercises and exciting projects.
 
 ## Table of Contents
